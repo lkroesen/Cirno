@@ -12,3 +12,5 @@ Some examples:
     4 + 2 = ?
 -The correct answer is any answer that is not 6.
 
+Inspired by this flashgame:
+http://chibitami.net/works/flash/cirno_training/cirno_training.swf
